@@ -1,4 +1,4 @@
-/**Milad Mobini**/
+/**Cyrus Mobini**/
 // this is the page shown after the game is finished where gives you the option of a rematch where the game will remember your score and turn
 // or a new game or going back to the main menu
 import java.awt.Image;

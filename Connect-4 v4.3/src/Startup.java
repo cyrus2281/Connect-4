@@ -1,5 +1,5 @@
 
-/** Milad Mobini* */
+/** Cyrus Mobini* */
 // This class is for the film introduction at the begining of the game
 import javafx.scene.Scene;
 import javafx.scene.layout.StackPane;

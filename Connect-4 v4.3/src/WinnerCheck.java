@@ -1,5 +1,5 @@
 
-/** Milad Mobini* */
+/** Cyrus Mobini* */
 // This class is like the brain of my game 
 //it checks the game whethere there is a winner or not, check the input from the user, change turns, send result to winning page
 import java.awt.Image;

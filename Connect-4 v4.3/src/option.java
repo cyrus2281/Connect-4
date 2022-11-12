@@ -1,5 +1,5 @@
 
-/** Milad Mobini* */
+/** Cyrus Mobini* */
 //this class is the option page where the user can change the background of game , the board and the beads, plus pausing and playing the music and sounds of the game 
 import java.awt.Image;
 import java.io.IOException;

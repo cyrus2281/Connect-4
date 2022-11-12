@@ -1,4 +1,4 @@
-/**Milad Mobini**/
+/**Cyrus Mobini**/
 //this the menu of the game where the user can explore different options
 import java.awt.Image;
 import java.io.IOException;
@@ -142,7 +142,7 @@ public class Menu extends javax.swing.JFrame {
         // about the developer
         SoundClass click = new SoundClass();
         click.clickSound();
-        JOptionPane.showMessageDialog(null, "THIS GAME WAS CREADTED BY MILAD MOBINI. HOPE YOU LIKE IT.\nYou can support me by following me on instagram @milad1mbn", "About the Developer", WIDTH);
+        JOptionPane.showMessageDialog(null, "THIS GAME WAS CREADTED BY MILAD MOBINI. HOPE YOU LIKE IT.\nYou can support me by following me on instagram @cyrus1mbn", "About the Developer", WIDTH);
     }//GEN-LAST:event_jButton4ActionPerformed
 
     private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed

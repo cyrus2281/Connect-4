@@ -10,4 +10,4 @@ At the time, I didn't really know much about OOP and java conventions. As a resu
 
 Unfortunately, at the time I also were not familliar with rules of copyright. So this application is a scramble of lots of code from Stackoverflow and lots of other websites. Also for the graphics (which are all modifed by me), I do not have the origin source. So please conact me for credits and copyright.
 
-Copyright (c) 2021 Milad Mobini and lots of other websites
+Copyright (c) 2021 Cyrus Mobini and lots of other websites

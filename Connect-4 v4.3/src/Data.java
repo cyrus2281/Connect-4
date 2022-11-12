@@ -1,5 +1,5 @@
 
-/** Milad Mobini* */
+/** Cyrus Mobini* */
 // this is where all the data and varieble of the game located, also where the grid of the game is created
 import javax.sound.sampled.Clip;
 public class Data {

@@ -1,5 +1,5 @@
 
-/** Milad Mobini* */
+/** Cyrus Mobini* */
 //This where the user see the visuals of the game and enter the inputs then the game sends it to all the needed classes
 import java.awt.*;
 import java.io.IOException;

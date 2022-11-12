@@ -1,4 +1,4 @@
-/**Milad Mobini**/
+/**Cyrus Mobini**/
 //This class has the role of all the sounds you hear in the game
 import java.net.URL;
 import javax.sound.sampled.AudioInputStream;
